@@ -1,7 +1,8 @@
 # GORM
 
-This is sample code to start with gorm implementation with mysql database.
+This is sample code to start with gorm implementation with mysql database.It includes :
 
-- It includes the code for intial db connection
+- Initial db connection setup
+- DB struct mapping of entities
 - Primary key, Foreign key mapping.
 - Auto migration of DB
